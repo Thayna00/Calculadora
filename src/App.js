@@ -3,6 +3,7 @@
 function App() {
   return  <>
     <div className="calc">
+       <div className="resultado"> ..</div>
        
        
     </div>

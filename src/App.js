@@ -1,13 +1,13 @@
 
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>olA</p>
-      </header>
+  return  <>
+    <div className="calc">
+       
+       
     </div>
-  );
+    <div className="historico">Resultado e histórico</div>
+  </>
 }
 
 export default App;

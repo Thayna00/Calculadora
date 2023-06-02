@@ -24,7 +24,7 @@ function App() {
          <button>0</button>
       </div>
     </div>
-    <div className="historico">Resultado e histórico</div>
+    <div className="historico">Resultado e historico</div>
   </>
 }
 

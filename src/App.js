@@ -4,7 +4,10 @@ import "./App.css";
 const App = ()=>{
     const [num, setNum]= useState(0);
 
-    
+    function inputNum (e){
+        let input = e.target.value;
+        setNum(input);
+    }
     
     return (
         <>
